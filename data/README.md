@@ -7,7 +7,7 @@ This dataset contains customer-level data collected from a Portuguese bank’s m
 The dataset was released as part of a public repository by the University of California, Irvine (UCI), and is widely used for benchmarking marketing and classification tasks.
 
 ### 🗂️ Dataset Summary
-- **Source**: UCI Machine Learning Repository  
+- **Source**: [UCI Machine Learning Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 - **Time Range**: 2008–2013 (over multiple campaigns)  
 - **Rows**: 45,211  
 - **Columns**: 17 features + 1 target variable  
